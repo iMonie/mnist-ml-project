@@ -3,7 +3,7 @@
 This project builds and compares machine learning models on the MNIST dataset.
 
 ## Models Used
-- CNN (TensorFlow) @20 epochs
+- CNN (TensorFlow) @20 epoch
 - Logistic Regression
 - Random Forest
 
