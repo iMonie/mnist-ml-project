@@ -9,11 +9,10 @@ This project builds and compares machine learning models on the MNIST dataset.
 
 ## How to Run
 
-### Option 1 (Recommended)
 Open in Google Colab:
 https://colab.research.google.com
 
-Upload `mnist_project.ipynb` and run all cells.
+Upload `mnist_project.ipynb` or any of the codes and run all cells.
 
 ---
 
